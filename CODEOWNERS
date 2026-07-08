@@ -1,0 +1,12 @@
+# {{WG_NAME}} CODEOWNERS
+#
+# Placeholder — WG chairs fill in their GitHub handles (or the WG team once a
+# human org admin creates @RAI-Institute/wg-<slug>).
+#
+# Charter and scope docs require review from the WG chairs.
+
+/CHARTER.md      {{@chair-handle}} {{@cochair-handle}}
+/README.md       {{@chair-handle}}
+
+# Everything else: WG members.
+*                {{@chair-handle}}
