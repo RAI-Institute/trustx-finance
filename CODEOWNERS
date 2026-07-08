@@ -1,12 +1,13 @@
-# {{WG_NAME}} CODEOWNERS
+# Agentic Commerce & Banking Working Group — CODEOWNERS
 #
-# Placeholder — WG chairs fill in their GitHub handles (or the WG team once a
-# human org admin creates @RAI-Institute/wg-<slug>).
+# Team name is a placeholder until a human org admin creates
+# @RAI-Institute/wg-finance and adds the U.S. Bank / NatWest chair handles
+# (see the org GOVERNANCE.md, Section 6).
 #
 # Charter and scope docs require review from the WG chairs.
 
-/CHARTER.md      {{@chair-handle}} {{@cochair-handle}}
-/README.md       {{@chair-handle}}
+/CHARTER.md      @RAI-Institute/wg-finance
+/README.md       @RAI-Institute/wg-finance
 
-# Everything else: WG members.
-*                {{@chair-handle}}
+# Everything else: the working group.
+*                @RAI-Institute/wg-finance
